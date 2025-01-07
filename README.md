@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Edwar 👋
+
+I am a passionate web developer with a strong interest in integrating technology with investment processes by automating every step.  
+I specialize in building web applications and creating custom bots in MQL5 to enhance automated trading strategies.  
+
 
 <!--
 **Edwar-Sanz/Edwar-Sanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
