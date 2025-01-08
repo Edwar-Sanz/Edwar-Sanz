@@ -1,20 +1,19 @@
-## Hello, I'm Edwar 👋
+<p align = "center">
+	<img src="baner.png" alt="Edwar-Sanz" width="100%" >
+</p>
+
+# Hello, I'm Edwar 👋
 
 I am a passionate web developer with a strong interest in integrating technology with investment processes by automating every step.  
 I specialize in building web applications and creating custom bots in MQL5 to enhance automated trading strategies.  
 
+## Tecnologies most used
+<p align = "center">
+	<img src="most_used.png" alt="Edwar-Sanz" width="70%" >
+</p>
 
-<!--
-**Edwar-Sanz/Edwar-Sanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other technologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+	<img src="others.png" alt="Edwar-Sanz" width="70%">
+</p>
