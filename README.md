@@ -1,6 +1,4 @@
-<p align = "center">
-	<img src="baner.png" alt="Edwar-Sanz" width="100%" >
-</p>
+
 
 # Hello, I'm Edwar 👋
 
